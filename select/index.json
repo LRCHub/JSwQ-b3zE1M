@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Orinoco Flow (2009 Remaster)",
+  "base_artist": "Enya",
+  "createdAt": "2026-03-02T12:23:42.459571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/01_Orinoco_Flow_Enya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/02_Orinoco_Flow_Enya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orinoco Flow - 2009 Remaster",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/03_Orinoco_Flow_-_2009_Remaster_Enya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ORINOCO FLOW (SAIL AWAY)",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_ORINOCO_FLOW_(SAIL_AWAY)_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/05_Orinoco_Flow_Enya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/06_Orinoco_Flow_Enya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/07_Orinoco_Flow_Enya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "0700 - Enya - Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/08_0700_-_Enya_-_Orinoco_Flow_Enya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Orinoco Flow",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/pl_01_Orinoco_Flow_Enya.txt"
+    }
+  ]
+}
