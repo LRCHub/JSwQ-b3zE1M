@@ -1,0 +1,95 @@
+# Enya – Orinoco Flow (2009 Remaster)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.02] Let me sail, let me sail
+[00:18.93] Let the Orinoco flow
+[00:20.98] Let me reach, let me beach
+[00:23.35] On the shores of Tripoli
+[00:35.35] 
+[00:25.44] Let me sail, let me sail
+[00:27.40] Let me crash upon your shore
+[00:29.49] Let me reach, let me beach
+[00:31.42] Far beyond the Yellow Sea
+[00:43.92] 
+[00:56.48] Sail away, sail away, sail away
+[01:00.55] Sail away, sail away, sail away
+[01:04.82] Sail away, sail away, sail away
+[01:09.11] Sail away, sail away, sail away
+[01:24.61] 
+[01:11.22] From Bissau to Palau
+[01:13.39] In the shade of Avalon
+[01:15.47] From Fiji to Tiree
+[01:17.65] And the Isles of Ebony
+[01:28.65] 
+[01:19.54] From Peru to Cebu
+[01:21.51] Hear the power of Babylon
+[01:23.65] From Bali to Cali
+[01:25.80] Far beneath the Coral Sea
+[01:38.30] 
+[01:49.58] Turn it up, turn it up, turn it up, up, adieu
+[01:55.16] Ooh
+[01:57.88] Turn it up, turn it up, turn it up, up, adieu
+[02:03.94] Ooh
+[02:05.88] Turn it up, turn it up, turn it up, up, adieu
+[02:28.38] 
+[02:18.02] Sail away, sail away, sail away
+[02:22.05] Sail away, sail away, sail away
+[02:26.26] Sail away, sail away, sail away
+[02:30.12] Sail away, sail away, sail away
+[02:45.62] 
+[02:32.55] From the North to the South
+[02:34.55] Ebudæ onto Khartoum
+[02:36.83] From the deep sea of clouds
+[02:38.98] To the island of The Moon
+[02:51.48] 
+[02:40.84] Carry me on the waves
+[02:43.00] To the land I've never been
+[02:45.02] Carry me on the waves
+[02:47.14] To the lands I've never seen
+[03:01.14] 
+[02:49.38] We can sail, we can sail
+[02:51.45] With the Orinoco flow
+[02:53.43] We can sail, we can sail
+[02:55.33] (Sail away, sail away, sail away)
+[03:11.83] 
+[02:57.88] We can steer, we can near
+[02:59.75] With Rob Dickins at the wheel
+[03:01.85] We can sigh, say goodbye
+[03:03.77] Ross and his dependencies
+[03:05.72] We can sail, we can sail
+[03:07.91] (Sail away, sail away, sail away)
+[03:24.41] 
+[03:10.01] We can reach, we can beach
+[03:12.44] On the shores of Tripoli
+[03:14.26] We can sail, we can sail
+[03:16.12] (Sail away, sail away, sail away)
+[03:32.62] 
+[03:18.52] From Bali to Cali
+[03:20.53] Far beneath the Coral Sea
+[03:22.61] We can sail, we can sail
+[03:24.47] (Sail away, sail away, sail away)
+[03:40.97] 
+[03:26.72] From Bissau to Palau
+[03:28.83] In the shade of Avalon
+[03:31.03] We can sail, we can sail
+[03:32.88] (Sail away, sail away, sail away)
+[03:49.38] 
+[03:35.05] We can reach, we can beach
+[03:37.29] Far beyond the Yellow Sea
+[03:39.44] We can sail, we can sail
+[03:41.29] (Sail away, sail away, sail away)
+[03:57.79] 
+[03:43.47] From Peru to Cebu
+[03:45.58] Hear the power of Babylon
+[03:47.58] We can sail, we can sail
+[03:49.70] (Sail away, sail away, sail away)
+[04:06.20] 
+[03:51.83] We can sail, we can sail
+[03:54.07] Sail away, sail away, sail away
+[03:58.16] Sail away, sail away, sail away
+[04:02.26] Sail away, sail away, sail away
+[04:06.41] Sail away, sail away, sail away
+[04:10.54] Sail away, sail away, sail away
+```
